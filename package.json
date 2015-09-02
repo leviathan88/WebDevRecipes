@@ -1,0 +1,22 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "web dev recipes",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leviathan88/WebDevRecipes.git"
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "elvis dedic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leviathan88/WebDevRecipes/issues"
+  },
+  "homepage": "https://github.com/leviathan88/WebDevRecipes#readme"
+}
